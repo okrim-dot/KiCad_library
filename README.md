@@ -1,2 +1,2 @@
 # KiCad
-KiCad Projects and Libraries
+KiCad Libraries
